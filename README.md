@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Woojoo's%20GitHub&fontSize=42" />
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -46,7 +46,6 @@
   <br>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wccjcc&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center><h1>📚 VELOG</h1></div>
 
