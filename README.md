@@ -46,7 +46,8 @@
   <br>
 </div>
 
-# velog
+<div align=center><h1>📚 STACKS</h1></div>
+
 <div align="center">
     <img src="https://velog-readme-stats.vercel.app/api?name=farishta" width=40% />
 </div>
