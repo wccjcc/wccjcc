@@ -48,8 +48,8 @@
 
 # velog
 <div align="center">
-    <img src="https://velog-readme-stats.vercel.app/api?name=wccjcc" width=40% />
+    <img src="https://velog-readme-stats.vercel.app/api?name=farishta" width=40% />
 </div>
 <div align="center">
-    👉🏻 <a href="https://velog.io/@wccjcc/posts">velog 바로가기</a>
+    👉🏻 <a href="https://velog.io/@wfarishta/posts">velog 바로가기</a>
 </div>
