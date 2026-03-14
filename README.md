@@ -54,3 +54,9 @@
 <div align="center">
     👉🏻 <a href="https://velog.io/@wfarishta/posts">velog 바로가기</a>
 </div>
+
+<div align=center><h1>📚 BOJ</h1></div>
+
+<div align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chikorita" width=40% />
+</div>
